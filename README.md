@@ -1,4 +1,3 @@
-<!--
 **Patricia-Isabell/Patricia-Isabell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pinyon+Script&size=40&duration=8000&pause=1000&color=1A00F7&width=500&height=100&lines=Welcome+to+My+GitHub+Profile!+)](https://git.io/typing-svg)
